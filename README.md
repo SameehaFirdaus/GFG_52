@@ -11,7 +11,7 @@ Tags:
 # 🚀 _Day 52. Count Pairs whose sum is less than target_ 🧠
 
 
-The problem can be found at the following link: [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/two-pointer-technique-gfg-160/problem/count-pairs-whose-sum-is-less-than-target)
+The problem can be found at  following link: [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/two-pointer-technique-gfg-160/problem/count-pairs-whose-sum-is-less-than-target)
 
 ## 💡 **Problem Description:**
 
